@@ -13,7 +13,7 @@ export const Footer = () => {
     bg='darkslateblue'
     >
       <Stack>
-        <Text letterSpacing={2.5} as='b' color='whitesmoke'>Powered by: fabiCoseglia</Text>
+        <Text letterSpacing={2.5} as='b' color='whitesmoke'>Powered by: ClaTech</Text>
       </Stack>
     </Flex>
   )
